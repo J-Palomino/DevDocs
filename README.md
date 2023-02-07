@@ -1,7 +1,7 @@
 # DevDocs
 
 -ohmyzsh  
--iterm2 https://iterm2.com/downloads.html
+-iterm2 [link](https://iterm2.com/downloads.html)
 -homebrew
 -nvm
-- vscode
+-vscode
