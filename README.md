@@ -5,6 +5,8 @@
 
 - ohmyzsh [Link](https://ohmyz.sh/#install)
  `sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"`
+
+FOR MAC
 - homebrew [link](brew.sh)
  ` /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)" `
  - iterm2 [link](https://iterm2.com/downloads.html)
