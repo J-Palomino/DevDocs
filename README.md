@@ -1,5 +1,7 @@
 # DevDocs
 
+add ascii art to a project using this site: https://www.asciiart.eu/image-to-ascii
+
 
 #### ENV setup
 
