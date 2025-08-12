@@ -1,5 +1,11 @@
 # DevDocs
 
+
+## Awesome Repos
+https://github.com/mendableai/open-lovable
+
+
+
 add ascii art to a project using this site: https://www.asciiart.eu/image-to-ascii
 
 
